@@ -1,4 +1,4 @@
-# Ignore Python cache
+
 __pycache__/
 *.pyc
 
@@ -6,15 +6,15 @@ __pycache__/
 venv/
 env/
 
-# Ignore data cache files
+
 *.log
 *.tmp
 
-# Ignore IDE settings
+
 .vscode/
 .idea/
 
-# Ignore compiled files
+
 *.pyo
 *.pyd
 .DS_Store
