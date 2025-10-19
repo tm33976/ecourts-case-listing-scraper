@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+typer[all]
+fastapi
+uvicorn
+python-multipart
+httpx
